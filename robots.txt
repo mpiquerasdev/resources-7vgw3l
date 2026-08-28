@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mpiquerasdev.github.io/resources-7vgw3l/sitemap.xml
